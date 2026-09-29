@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 2500,
+      "category": "Electronics",
+      "description": "High-quality wireless headphones with clear sound and comfortable ear cushions."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 3500,
+      "category": "Electronics",
+      "description": "A modern smart watch with fitness tracking, notifications, and heart rate monitoring."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 2200,
+      "category": "Fashion",
+      "description": "Lightweight and comfortable running shoes designed for daily exercise and outdoor activities."
+    },
+    {
+      "id": 4,
+      "name": "Leather Backpack",
+      "price": 1800,
+      "category": "Accessories",
+      "description": "Stylish and durable leather backpack suitable for work, travel, and everyday use."
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 4200,
+      "category": "Electronics",
+      "description": "RGB mechanical keyboard with responsive keys and a comfortable design for typing and gaming."
+    },
+    {
+      "id": 6,
+      "name": "Coffee Mug",
+      "price": 500,
+      "category": "Home",
+      "description": "A simple ceramic coffee mug with a modern design, perfect for coffee and tea."
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 450,
+      "category": "Fiction",
+      "description": "A young shepherd follows his dreams and discovers the meaning of his journey."
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 650,
+      "category": "Self-Help",
+      "description": "A practical guide to building good habits and breaking bad ones."
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 550,
+      "category": "Finance",
+      "description": "A book about financial education, investing, and understanding money."
+    },
+    {
+      "id": 4,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 700,
+      "category": "Fantasy",
+      "description": "Bilbo Baggins joins a group of dwarves on an exciting adventure."
+    },
+    {
+      "id": 5,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 500,
+      "category": "Dystopian",
+      "description": "A dystopian novel about surveillance, control, and individual freedom."
+    },
+    {
+      "id": 6,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 600,
+      "category": "Finance",
+      "description": "Explores how emotions and behavior influence financial decisions."
+    }
+  ]
+}
